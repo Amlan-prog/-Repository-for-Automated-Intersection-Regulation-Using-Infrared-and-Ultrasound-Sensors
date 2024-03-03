@@ -8,6 +8,8 @@ The intelligent decision-making algorithm takes into account the flow of vehicle
 
 Developers can integrate and customize this codebase into their projects, taking advantage of its modular structure and compatibility with various sensor configurations. This repository serves as a foundation for creating smart traffic control solutions that are responsive to real-time conditions, contributing to more sustainable and efficient urban transportation systems.
 
+
+
 #**Requirements:**
 
  hardware setup using a DEMOQE128 Rev. C board with the MC9S08QE128 microcontroller. Here's a brief overview of the components mentioned:
