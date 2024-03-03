@@ -1,4 +1,4 @@
-# -Repository-for-Automated-Intersection-Regulation-Using-Infrared-and-Ultrasound-Sensors
+# Repository for Automated Intersection Regulation Using Infrared and Ultrasound Sensors
 
 Welcome to our Intelligent Traffic Control System code repository, a comprehensive resource for developing an innovative traffic management solution. At its core, the system leverages data from both infrared and ultrasound sensors strategically positioned at intersections. These sensors continuously gather real-time information about vehicular presence and movement.
 
